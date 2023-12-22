@@ -1,1 +1,4 @@
 cat fs.txt | xargs -n1 curl -O
+
+https://github.com/kings-c53/public_files/blob/main/discount/f1fd848c-844c-44f3-9bb3-1a6eab75-e3e052a3-211023180642.jpeg?raw=true
+https://raw.githubusercontent.com/kings-c53/public_files/main/discount/f1fd848c-844c-44f3-9bb3-1a6eab75-e3e052a3-211023180642.jpeg
