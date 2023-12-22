@@ -1,0 +1,1 @@
+cat fs.txt | xargs -n1 curl -O
